@@ -1,0 +1,93 @@
+{
+    "Products": [
+      {
+        "id": 1,
+        "name": "American Marigold",
+        "price": 23.45,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-1-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-2-270x300.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Black Eyed Susan",
+        "price": 23,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-2-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-3-270x300.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Bleeding heart",
+        "price": 45,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-3-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-4-270x300.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bloody Cranesbill",
+        "price": 12,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-4-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-5-270x300.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Butterfly Weed",
+        "price": 29,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-5-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-6-270x300.jpg"
+      },
+      {
+        "id": 6,
+        "name": "Common Yarrow",
+        "price": 25,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-6-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-7-270x300.jpg"
+      },
+      {
+        "id": 7,
+        "name": "Doublefile Viburnum",
+        "price": 5,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-7-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-8-270x300.jpg"
+      },
+      {
+        "id": 8,
+        "name": "Feather Reed Grass",
+        "price": 52,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-8-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-9-270x300.jpg"
+      }
+    ],
+    "newProducts": [
+      {
+        "id": 1,
+        "name": "American Marigold",
+        "price": 23.45,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-9-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-10-270x300.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Black Eyed Susan",
+        "price": 23,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-10-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-11-270x300.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Bleeding heart",
+        "price": 42.3,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-11-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-8-270x300.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Bloody Cranesbill",
+        "price": 15.75,
+        "image": "https://htmldemo.net/pronia/pronia/assets/images/product/medium-size/1-8-270x300.jpg",
+        "image2": "https://htmldemo.net/pronia/pronia/assets/images/slider/inner-img/1-2-270x300.jpg"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
